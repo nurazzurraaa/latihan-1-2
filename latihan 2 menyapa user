@@ -1,0 +1,5 @@
+# Buat Program untuk menyapa User
+
+print("Kelas Python Pemula")
+nama = input("\nMasukkan Nama :")
+print("Halo,", nama, "\nSelamat Datang di Kelas Pemula Python")
