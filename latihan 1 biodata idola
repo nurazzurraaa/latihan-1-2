@@ -1,0 +1,12 @@
+# Buatlah Biodata Idola
+
+print("Biodata Idola\n")
+
+nama = "Nama        : Nur Azzura Asyifa"
+hobi = "\nHobi        : Menonton Film"
+tinggi_badan = "\nTinggi Badan: 168 cm"
+berat_badan = "\nBerat Badan : 60 kg"
+jenis_kelamin = "\nJ. Kelamin  : Perempuan"
+suku = "\nSuku Bangsa : Sunda"
+telpon = "\nNo. Telepon : 0838xxxx27"
+print(nama + hobi + tinggi_badan + berat_badan + jenis_kelamin + suku + telpon)
